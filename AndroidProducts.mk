@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/p404_RMX2020.mk
+    $(LOCAL_DIR)/xperience_RMX2020.mk
